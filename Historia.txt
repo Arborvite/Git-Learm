@@ -7,3 +7,5 @@ Mi edad es de 40 años.
 Me gusta caminar en la montaña.
 
 Hoy es mièrcoles 10 de agosto del 2020.
+
+Aprendiendo Git.
